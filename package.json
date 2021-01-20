@@ -1,0 +1,10 @@
+{
+  "name": "alphav_stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+  },
+  "author": "Rik Sagar",
+  "license": "Apache-2.0"
+}
